@@ -68,6 +68,8 @@ toc: false
 
 ## Onitsuka Tiger
 
+(only one pair out of three, whichever looks good to you)
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4}
