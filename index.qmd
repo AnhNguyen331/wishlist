@@ -13,7 +13,7 @@ toc: false
 
 ::: {.wishlist-card}
 
-![](smiski_series_2.png){width="100%"}
+![](pics/smiski_series_2.png){width="100%"}
 
 **Smiski Series 2**
 
@@ -25,7 +25,7 @@ toc: false
 
 ::: {.wishlist-card}
 
-![](smiski_work.png){width="100%"}
+![](pics/smiski_work.png){width="100%"}
 
 **Smiski @ Work**
 
@@ -37,7 +37,7 @@ toc: false
 
 ::: {.wishlist-card}
 
-![](smiski_yoga.png){width="100%"}
+![](pics/smiski_yoga.png){width="100%"}
 
 **Smiski Yoga**
 
@@ -75,7 +75,7 @@ toc: false
 
 :::{.wishlist-card}
 
-![](oni.jpeg){width="100%"}
+![](pics/oni.jpeg){width="100%"}
 
 **Mexico 66 SD VIN Birch/Metropolis**
 
@@ -87,7 +87,7 @@ toc: false
 
 ::: {.wishlist-card}
 
-![](oni2.jpeg){width="100%"}
+![](pics/oni2.jpeg){width="100%"}
 
 **Mexico 66 SD VIN Cream/Birch**
 
@@ -99,7 +99,7 @@ toc: false
 
 ::: {.wishlist-card}
 
-![](oni3.jpeg){width="100%"}
+![](pics/oni3.jpeg){width="100%"}
 
 **Mexico 66 Cream/Sage**
 :::
@@ -118,7 +118,7 @@ toc: false
 
 ::: {.wishlist-card}
 
-![](eyeliner_pencil.jpeg){width="100%"}
+![](pics/eyeliner_pencil.jpeg){width="100%"}
 
 **Canmake Creamy Touch Eyeliner**
 
