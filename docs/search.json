@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My little wishlist ☁️",
+    "section": "",
+    "text": "Smiski Series 2\n\n\n\n\n\nSmiski @ Work\n\n\n\n\n\nSmiski Yoga\n\n\n\n\n\n\n📍 SONIANDSMI (Might need to reserve before going)\n📍 Don Quijote\n📍 Kiddyland\n📍 Hands\n\n\n\n\nShould be around ¥1000–¥1300\nMight not be tax exempt in some stores\n\n\n\n\n\n\n\n\n\n\n\nMexico 66 SD VIN Birch/Metropolis\n\n\n\n\n\nMexico 66 SD VIN Cream/Birch\n\n\n\n\n\nMexico 66 Cream/Sage\n\n\n\n\n\n\n\n\n\n\n\nCanmake Creamy Touch Eyeliner\n[02] Medium Brown and [11] Cloudy Gray"
+  },
+  {
+    "objectID": "index.html#smiski",
+    "href": "index.html#smiski",
+    "title": "My little wishlist ☁️",
+    "section": "",
+    "text": "Smiski Series 2\n\n\n\n\n\nSmiski @ Work\n\n\n\n\n\nSmiski Yoga\n\n\n\n\n\n\n📍 SONIANDSMI (Might need to reserve before going)\n📍 Don Quijote\n📍 Kiddyland\n📍 Hands\n\n\n\n\nShould be around ¥1000–¥1300\nMight not be tax exempt in some stores"
+  },
+  {
+    "objectID": "index.html#onitsuka-tiger",
+    "href": "index.html#onitsuka-tiger",
+    "title": "My little wishlist ☁️",
+    "section": "",
+    "text": "Mexico 66 SD VIN Birch/Metropolis\n\n\n\n\n\nMexico 66 SD VIN Cream/Birch\n\n\n\n\n\nMexico 66 Cream/Sage"
+  },
+  {
+    "objectID": "index.html#makeup",
+    "href": "index.html#makeup",
+    "title": "My little wishlist ☁️",
+    "section": "",
+    "text": "Canmake Creamy Touch Eyeliner\n[02] Medium Brown and [11] Cloudy Gray"
+  }
+]

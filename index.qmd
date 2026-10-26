@@ -1,0 +1,128 @@
+---
+title: " "
+page-layout: full
+toc: false
+---
+
+# My little wishlist ☁️
+
+## Smiski
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.wishlist-card}
+
+![](smiski_series_2.png){width="100%"}
+
+**Smiski Series 2**
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.wishlist-card}
+
+![](smiski_work.png){width="100%"}
+
+**Smiski @ Work**
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.wishlist-card}
+
+![](smiski_yoga.png){width="100%"}
+
+**Smiski Yoga**
+
+:::
+
+:::
+
+:::
+
+:::{.store-info}
+### Where to buy
+
+📍 [SONIANDSMI](https://www.google.com/maps/search/?api=1&query=SONIANDSMI+SHIBUYA){target="_blank"} (Might need to reserve before going)
+
+📍 Don Quijote
+
+📍 [Kiddyland](https://www.google.com/maps/search/?api=1&query=Kiddy+Land){target="_blank"}
+
+📍 [Hands](https://www.google.com/maps/search/?api=1&query=Tokyu+Hands+Shibuya){target="_blank"}
+
+### Price
+
+- Should be around ¥1000–¥1300
+- Might not be tax exempt in some stores
+:::
+---
+
+## Onitsuka Tiger
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+:::{.wishlist-card}
+
+![](oni.jpeg){width="100%"}
+
+**Mexico 66 SD VIN Birch/Metropolis**
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.wishlist-card}
+
+![](oni2.jpeg){width="100%"}
+
+**Mexico 66 SD VIN Cream/Birch**
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.wishlist-card}
+
+![](oni3.jpeg){width="100%"}
+
+**Mexico 66 Cream/Sage**
+:::
+
+:::
+
+:::
+
+---
+
+## Makeup
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+::: {.wishlist-card}
+
+![](eyeliner_pencil.jpeg){width="100%"}
+
+**Canmake Creamy Touch Eyeliner**
+
+[02] Medium Brown and [11] Cloudy Gray
+
+:::
+:::
+:::
